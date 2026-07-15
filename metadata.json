@@ -1,0 +1,6 @@
+{
+  "name": "AN Marketing Digital",
+  "description": "Gestor de clientes, leads, reuniones, cobranza por WhatsApp y reportes de rendimiento con inteligencia artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
